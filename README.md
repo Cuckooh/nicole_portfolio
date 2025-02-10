@@ -46,7 +46,7 @@ I am a data analyst and aspiring data scientist with a background in c-suite exe
 Feel free to connect with me for collaborations or discussions on data analytics and machine learning!
 - **GitHub**: [Cuckooh](https://github.com/Cuckooh)
 - **LinkedIn**: [Nicole Calsado](https://www.linkedin.com/in/nicole-calsado-41729928)
-- **Youtube (TV Commercials Portfolio)**: [@cuckooh_co](https://youtu.be/Hklh_6B1gh0?si=AN2OEcVnZBD3TI5e)
+- **Youtube (TV Commercials Portfolio)**: [@cuckooh_co](https://www.youtube.com/watch?v=Hklh_6B1gh0&list=PLAj4O1RX9bbj2gvawo8R7qhvLqRM2faOL)
 
 ---
 🔍 *Let’s explore data-driven insights together!*
